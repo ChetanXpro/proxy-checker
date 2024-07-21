@@ -1,4 +1,4 @@
-# Proxy Checker CLI Tool
+# Proxy Checker
 
 A fast, multithreaded CLI tool to verify the status of HTTP and SOCKS proxies.
 
